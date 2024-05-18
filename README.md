@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **ML Engineering**
 
-- 📝 I regularly write articles on [https://mbt70.github.io/](https://mbt70.github.io/)
+- 📝 I regularly write articles on [https://mbt70.github.io/Minialgo/](https://mbt70.github.io/Minialgo/))
 
 - 💬 Ask me about **Math,Algorithm**
 
