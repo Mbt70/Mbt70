@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbt70&label=Profile%20views&color=0e75b6&style=flat" alt="mbt70" /> </p>
 
-- 🤝 I’m looking for help with **ML Engineering**
+- 🤝 I’m looking for help with **Industrial Engineering**
 
 - 📝 I regularly write articles on [https://mbt70.github.io/Minialgo/](https://mbt70.github.io/Minialgo/))
 
-- 💬 Ask me about **Math,Algorithm**
+- 💬 Ask me about **Math,Algorithm,AI**
 
-- 📫 How to reach me **j07801@hanyang.ac.kr**
+- 📫 How to reach me **j07801@hanyang.ac.kr** or Instagram
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
