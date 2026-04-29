@@ -10,7 +10,8 @@ I’m interested in small systems that turn messy information into decisions, ac
 ## What I’m exploring now / 요즘 탐색하는 것
 
 - **Personal AI workflow / 개인 AI 작업 흐름**
-  Using OpenClaw and AgentBox to connect capture, project notes, GitHub work, and review.
+  Using OpenClaw and AgentBox to connect capture, project notes, GitHub work, and review.  
+  → [OpenClaw Personal OS / AgentBox case study](case-studies/openclaw-personal-os.md)
 
 - **Optimization for operations / 운영 문제의 최적화**
   Framing trade-offs like comfort vs. energy use as decision-support problems.
@@ -51,7 +52,11 @@ Problem → constraints → small artifact → verification → reusable notes
 - [career_guide](https://github.com/Mbt70/career_guide) — AI/ML career research notes
 - [python_lib](https://github.com/Mbt70/python_lib) — early Python data-analysis learning notes
 
-More case studies are being shaped around OpenClaw Personal OS, ThermoShift, and re:action.
+Case studies in progress:
+
+- [OpenClaw Personal OS / AgentBox](case-studies/openclaw-personal-os.md) — personal AI workflow for turning scattered ideas into actions, artifacts, and reusable evidence
+- ThermoShift — comfort-energy optimization brief, coming next
+- re:action — execution-support user flow and failure taxonomy, coming next
 
 ---
 
