@@ -52,11 +52,12 @@ Problem → constraints → small artifact → verification → reusable notes
 - [career_guide](https://github.com/Mbt70/career_guide) — AI/ML career research notes
 - [python_lib](https://github.com/Mbt70/python_lib) — early Python data-analysis learning notes
 
-Case studies in progress:
+Case studies:
 
-- [OpenClaw Personal OS / AgentBox](case-studies/openclaw-personal-os.md) — personal AI workflow for turning scattered ideas into actions, artifacts, and reusable evidence
-- ThermoShift — comfort-energy optimization brief, coming next
-- re:action — execution-support user flow and failure taxonomy, coming next
+- [Case study index](case-studies/INDEX.md) — one place for published and planned case study notes
+- [OpenClaw Personal OS / AgentBox](case-studies/openclaw-personal-os.md) — personal AI workflow for turning scattered ideas into tasks, artifacts, and reviewable project records
+- ThermoShift — public-scope comfort-energy optimization brief, coming next
+- re:action — public-scope execution-support user flow and failure taxonomy, coming next
 
 ---
 
