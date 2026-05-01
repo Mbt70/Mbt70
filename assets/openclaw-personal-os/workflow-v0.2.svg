@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">Capture to case study workflow</title>
+  <desc id="desc">A five-step workflow from capture to clarification, shipping, verification, and connection to public project records.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f8fafc}.card{fill:white;stroke:#cbd5e1;stroke-width:2}.c1{fill:#eef2ff;stroke:#6366f1}.c2{fill:#faf5ff;stroke:#a855f7}.c3{fill:#ecfdf5;stroke:#10b981}.c4{fill:#fff7ed;stroke:#f97316}.c5{fill:#f0f9ff;stroke:#0ea5e9}.text{font-family:Inter,Arial,sans-serif;fill:#111827}.muted{fill:#475569}.h1{font-size:40px;font-weight:700}.h2{font-size:27px;font-weight:700}.small{font-size:22px}.xs{font-size:19px}.arrow{stroke:#64748b;stroke-width:4;fill:none;marker-end:url(#arrow)}.pill{fill:#111827}.white{fill:white}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 z" fill="#64748b"/></marker>
+  </defs>
+  <rect class="bg" width="1280" height="760"/>
+  <text x="64" y="72" class="text h1">From scattered input to reviewable project record</text>
+  <text x="64" y="112" class="muted small">A sanitized example workflow; real private messages and account details are excluded.</text>
+
+  <rect x="60" y="180" width="210" height="360" rx="22" class="card c1"/>
+  <text x="88" y="230" class="text h2">1. Capture</text>
+  <text x="88" y="282" class="text xs">Quick idea, link,</text>
+  <text x="88" y="312" class="text xs">meeting note, or</text>
+  <text x="88" y="342" class="text xs">AI output is saved</text>
+  <text x="88" y="405" class="muted xs">Example:</text>
+  <text x="88" y="435" class="text xs">“Turn this project</text>
+  <text x="88" y="465" class="text xs">into a case note.”</text>
+
+  <rect x="310" y="180" width="210" height="360" rx="22" class="card c2"/>
+  <text x="338" y="230" class="text h2">2. Clarify</text>
+  <text x="338" y="282" class="text xs">Classify whether it is</text>
+  <text x="338" y="312" class="text xs">a task, project log,</text>
+  <text x="338" y="342" class="text xs">or future artifact</text>
+  <text x="338" y="405" class="muted xs">Output:</text>
+  <text x="338" y="435" class="text xs">next action +</text>
+  <text x="338" y="465" class="text xs">project record</text>
+
+  <rect x="560" y="180" width="210" height="360" rx="22" class="card c3"/>
+  <text x="588" y="230" class="text h2">3. Ship</text>
+  <text x="588" y="282" class="text xs">Produce a small</text>
+  <text x="588" y="312" class="text xs">artifact: brief,</text>
+  <text x="588" y="342" class="text xs">README, wireframe,</text>
+  <text x="588" y="372" class="text xs">or dashboard</text>
+  <text x="588" y="435" class="muted xs">Rule:</text>
+  <text x="588" y="465" class="text xs">small but complete</text>
+
+  <rect x="810" y="180" width="210" height="360" rx="22" class="card c4"/>
+  <text x="838" y="230" class="text h2">4. Verify</text>
+  <text x="838" y="282" class="text xs">Attach reviewable</text>
+  <text x="838" y="312" class="text xs">evidence: screenshot,</text>
+  <text x="838" y="342" class="text xs">test, audit, commit,</text>
+  <text x="838" y="372" class="text xs">or decision log</text>
+  <text x="838" y="435" class="muted xs">Avoid:</text>
+  <text x="838" y="465" class="text xs">unsupported claims</text>
+
+  <rect x="1060" y="180" width="170" height="360" rx="22" class="card c5"/>
+  <text x="1088" y="230" class="text h2">5. Connect</text>
+  <text x="1088" y="282" class="text xs">Reuse only</text>
+  <text x="1088" y="312" class="text xs">sanitized records</text>
+  <text x="1088" y="362" class="muted xs">Destinations:</text>
+  <text x="1088" y="392" class="text xs">GitHub</text>
+  <text x="1088" y="422" class="text xs">Case study</text>
+  <text x="1088" y="452" class="text xs">LinkedIn</text>
+  <text x="1088" y="482" class="text xs">Interview</text>
+
+  <path d="M275 360 H300" class="arrow"/><path d="M525 360 H550" class="arrow"/><path d="M775 360 H800" class="arrow"/><path d="M1025 360 H1050" class="arrow"/>
+
+  <rect x="170" y="610" width="940" height="72" rx="20" class="pill"/>
+  <text x="220" y="640" class="white small">Key idea: the AI assistant is not the final author of public claims.</text>
+  <text x="220" y="672" class="white small">It helps create records that a human can inspect and approve.</text>
+</svg>
