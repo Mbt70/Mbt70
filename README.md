@@ -19,16 +19,12 @@ I’m interested in small systems that turn messy information into decisions, ac
 - **Execution support systems / 실행을 돕는 시스템**
   Looking at failed plans as a feedback, environment, and memory problem, not just a willpower problem.
 
-- **Public data and access gaps / 공공데이터와 접근 격차**
-  Exploring why useful services or resources often fail to turn into real action.
-
 ---
 
 ## Selected signals / 작은 증거들
 
 - **SK AI Dream Camp 2025** — Intermediate Course 1st, Advanced Course 3rd / 중급과정 1등, 고급과정 3등
 - **Hanium ICT projects** — ThermoShift, re:action as PM/team lead / 한이음 프로젝트 PM·팀장 역할로 진행 중
-- **DAKER InvestSkill Dashboard** — Skills.md-driven investment dashboard MVP; private/submission-related for now
 - **Statistical data analysis** — [Kostat_analysis_AI_industrial_forecast](https://github.com/Mbt70/Kostat_analysis_AI_industrial_forecast)
 
 ---
